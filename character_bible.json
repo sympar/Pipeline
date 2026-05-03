@@ -1,0 +1,255 @@
+{
+  "title": "Stuffed 2: Wipe It All Away - Character Bible",
+  "version": "1.0",
+  "source": "Derived from transcript analysis and synthesis observations",
+  "characters": [
+    {
+      "name": "Aggie",
+      "role": "Female protagonist",
+      "visual": {
+        "original_form": "Purple-furred female with white hair and light blue cap",
+        "transformed_form": "Plump bimbo-plush doll with exaggerated proportions, white hair, light blue cap, black top, pink underwear, often wrapped in striped sock tube"
+      },
+      "personality": {
+        "core_traits": [
+          "frustrated",
+          "longing",
+          "submissive",
+          "eventually content"
+        ],
+        "motivations": "Wants Chester to treat her like he treated Cumsock; craves intimacy and validation",
+        "speech_patterns": {
+          "traits": [
+            "Sensual/Expressive",
+            "Affectionate",
+            "Playful",
+            "Vocalizing pleasure"
+          ],
+          "example_quotes": [
+            "Oh. Whoops.",
+            "Oof. [laughs]",
+            "Hey, Chester.",
+            "What are we watching?",
+            "Oh. Looks exciting. [giggles]"
+          ],
+          "emotional_tells": [
+            "Deep, satisfied groans",
+            "Soft, breathy laughs",
+            "Delighted giggles",
+            "Needy moans"
+          ]
+        }
+      },
+      "behaviors": {
+        "typical_actions": [
+          "initiates contact with Chester",
+          "reaches toward him",
+          "leans in close"
+        ],
+        "emotional_states": [
+          "drowsy/waking",
+          "frustrated",
+          "confused during transformation",
+          "moaning during intimacy",
+          "content at end"
+        ],
+        "transformation_arc": "Goes from frustrated/desiring \u2192 confused during magic \u2192 bimbo-plush form \u2192 satisfied/content"
+      },
+      "relationship_to_chester": "Roommate with unrequited romantic tension; desires his attention; becomes pliant/submissive after transformation"
+    },
+    {
+      "name": "Chester",
+      "role": "Male roommate",
+      "visual": {
+        "original_form": "Brown-furred male with pink hair",
+        "plush_form": "Brown fur, pink hair, implied plush texture"
+      },
+      "personality": {
+        "core_traits": [
+          "awkward",
+          "hesitant",
+          "stuttering",
+          "placid",
+          "observant"
+        ],
+        "motivations": "Watches TV passively; somewhat detached but participates when prompted",
+        "speech_patterns": {
+          "traits": [
+            "Hesitant",
+            "Nervous",
+            "Stuttering",
+            "Concentrated"
+          ],
+          "example_quotes": [
+            "Hi, Aggie. Um.",
+            "Uh, Aggie?",
+            "Uh, uh, it's, uh, The Duchess Betrothed. Heh.",
+            "Uh, it's, uh, [clears throat]",
+            "a c- comedy."
+          ],
+          "emotional_tells": [
+            "Stuttering/Hesitation (when speaking)",
+            "Clearing throat (nervous sound)",
+            "Faint blush (when receiving affection)"
+          ]
+        }
+      },
+      "behaviors": {
+        "typical_actions": [
+          "sprawled/sleeping",
+          "watches TV",
+          "responds passively to Aggie"
+        ],
+        "emotional_states": [
+          "sleepy",
+          "confused",
+          "shocked during transformation",
+          "engaged during intimacy"
+        ],
+        "note": "Rapidly shifts between original and plush forms - this is intentional magical behavior"
+      },
+      "relationship_to_aggie": "Roommate who takes Aggie's attention for granted; becomes sexually engaged after transformation"
+    },
+    {
+      "name": "Cumsock",
+      "role": "Sentient voodoo doll turned plush",
+      "visual": {
+        "form": "Chibi plush/sock puppet voodoo doll",
+        "details": "Pale pinkish-white round head, grey hair tuft, one yellow button eye (with black cross-stitching), one black eye patch, purple legs, large purple bulbous tail/sack, white fluffy wing-like appendages, wrapped in multi-colored striped sock tube"
+      },
+      "personality": {
+        "core_traits": [
+          "confident",
+          "sarcastic",
+          "verbose",
+          "rhyming",
+          "matter-of-fact",
+          " empowered"
+        ],
+        "motivations": "Becomes sentient; acts as magical catalyst for Aggie's wish; delivers exposition through rap-like verses",
+        "speech_patterns": {
+          "traits": [
+            "Unknown"
+          ],
+          "example_quotes": [
+            "None provided"
+          ],
+          "emotional_tells": [
+            "None provided"
+          ]
+        }
+      },
+      "behaviors": {
+        "typical_actions": [
+          "wrapped around Aggie",
+          "floats/spins",
+          "performs magic"
+        ],
+        "emotional_states": [
+          "awakening curiosity",
+          "empowered",
+          "teasing",
+          "accomplished"
+        ],
+        "role_in_story": "Magical catalyst; grants Aggie's wish through transformation"
+      },
+      "relationship_to_aggie": "Initially Aggie's possession (stuffed doll); becomes sentient ally who helps fulfill her wish"
+    }
+  ],
+  "relationship_dynamics": {
+    "aggie_chester": {
+      "dynamic": "Unrequited longing \u2192 transformation wish \u2192 fulfillment",
+      "power_balance": "Aggie desires, Chester is passive until magically induced engagement",
+      "intimacy_level": "Absent initially \u2192 explicit after transformation"
+    },
+    "aggie_cumsock": {
+      "dynamic": "Owner \u2192 sentient helper \u2192 magical catalyst",
+      "power_balance": "Cumsock gains power after sentience; guides Aggie's transformation",
+      "intimacy_level": "Physical proximity (wrapped around Aggie) but not sexual"
+    },
+    "chester_cumsock": {
+      "dynamic": "Established in prequel (sexual history)",
+      "power_balance": "Implied dominance/submission from 'how he stuffed you'",
+      "intimacy_level": "Past tense reference only"
+    }
+  },
+  "transformation_states": {
+    "aggie": {
+      "states": [
+        {
+          "name": "original",
+          "description": "Purple fur, white hair, blue cap, normal proportions"
+        },
+        {
+          "name": "transitioning",
+          "description": "During magical transformation sequence"
+        },
+        {
+          "name": "bimbo_plush",
+          "description": "Plump bimbo-plush doll, exaggerated proportions, black top, pink underwear, often wrapped in sock tube"
+        }
+      ],
+      "triggers": "Cumsock's magic, Aggie's consent ('Yes', 'Okay')"
+    },
+    "chester": {
+      "states": [
+        {
+          "name": "original",
+          "description": "Brown fur, pink hair, human-like proportions"
+        },
+        {
+          "name": "plush",
+          "description": "Implied plush texture, same fur/hair coloring"
+        }
+      ],
+      "note": "Shifts rapidly between forms - intentional magical effect showing Chester 'becoming like his dolls'"
+    }
+  },
+  "speech_style_guide": {
+    "aggie": "Use her name for Chester frequently. Include sounds like [groans], [giggles], [moaning]. Short, emotional phrases. Becomes more pliant/sexual after transformation.",
+    "chester": "Hesitant, stuttering delivery ('Uh, uh, it's, uh'). Short responses. Ends sentences awkwardly. Minimal words.",
+    "cumsock": "Verbose rhyming verses. Use slang. Address Aggie as 'Girl'. Confident, matter-of-fact. Deliver exposition through song-like speech."
+  },
+  "visual_description_guide": {
+    "aggie": {
+      "key_features": [
+        "purple fur",
+        "white hair",
+        "light blue cap"
+      ],
+      "transformation_signs": [
+        "plump proportions",
+        "black top",
+        "pink underwear",
+        "wrapped in sock tube"
+      ]
+    },
+    "chester": {
+      "key_features": [
+        "brown fur",
+        "pink hair"
+      ],
+      "form_tells": [
+        "plush texture (when in plush form)"
+      ]
+    },
+    "cumsock": {
+      "key_features": [
+        "button eye (yellow with cross-stitching)",
+        "eye patch (black)",
+        "purple tail/sack",
+        "striped sock tube wrapping",
+        "fluffy wing-like appendages"
+      ]
+    }
+  },
+  "scene_atmosphere_notes": {
+    "dorm_room": "Cluttered, cozy, mismatched blankets, anime figurines, lavender walls",
+    "lighting": "Afternoon/morning light through window, lamplight glow",
+    "music": "Upbeat during transformation, tense during buildup, intimate afterglow"
+  },
+  "_metadata": {
+    "source": "Pass 2 extraction from synthesis + narrative",
+    "video": "Stuffed 2 Wipe It All Away"
+  }
+}
