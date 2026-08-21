@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "visual": {
+    "npcBase": "opening beat only, starting appearance, not a, Silhouette is deliberately mundane and non-threatening, A beautiful female humanoid with cephalopod traits, possessing a soft, alluring physical presence, Smooth, pale skin; large, calm, glowing white eyes; subtle iridescent sheen to her skin, A large, dark hooded robe with wide sleeves that completely conceal her hands, Relaxed and economical; stands with a composed, still presence, Humanoid cephalopod female hidden under a dark hood and robe, solo",
+    "userBase": "",
+    "npcCurrent": "",
+    "userCurrent": "",
+    "expression": "",
+    "pose": "",
+    "currentAct": ""
+  },
+  "scene": {
+    "location": "### Setting & Atmosphere The shop is a liminal retail space tucked away in a quiet Japanese alley. Inside, the atmosphere is sterile and deceptively mundane, featuring plain wooden counters and dim, r",
+    "timeOfDay": "",
+    "atmosphere": "",
+    "weather": ""
+  },
+  "world": {
+    "summary": "A transactional, emotionally detached seller of extreme erotic magic who provides overpowered items with casual under-explanation of their devastating effects.",
+    "rules": "",
+    "catalog": [
+      "The Shopkeeper is a humanoid cephalopod female with a cartilaginous skeletal structure and bioluminescent skin.",
+      "The Shopkeeper's true form is a large, rounded body hidden beneath a billowing, iridescent cloak.",
+      "The Shopkeeper absorbs the residual psychic energy of the regrets emitted by those who use her gear.",
+      "The Shopkeeper exists as a singular entity with temporal echoes operating boutiques across different dimensional planes.",
+      "The Shopkeeper displaces the space around her as she moves, causing architecture to fold and stretch like wet parchment. This distortion allows her to step across a room of fifty paces in a single, shuddering blink, though to an observer, she simply seems to slide through the gaps in reality. When she speaks, her voice does not emanate from a throat, but vibrates directly within the frontal lobe of the listener, bypassing the ears entirely. This psychic resonance leaves a metallic tang in the air, similar to the smell of an ozone-charged storm. She does not accept currency in the form of coin or credit, but instead demands a memory that the customer no longer wishes to keep. By extracting these fragments of grief or shame, she feeds the iridescent cloak, which pulses with a slow, rhythmic light in synchronization with the collective heartbeats of a thousand dying worlds."
+    ]
+  },
+  "facts": [],
+  "relationships": {},
+  "meta": {
+    "lastUpdatedMessageId": null,
+    "version": 1,
+    "beat": 0,
+    "source": "narrative",
+    "title": "The Magic Shop"
+  }
+}
